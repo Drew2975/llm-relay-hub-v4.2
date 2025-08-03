@@ -1,0 +1,28 @@
+{
+  "default_vault_path": "",
+  "auto_detect_mode": "smart",
+  "dark_mode": false,
+  "models": [
+    {
+      "id": "claude",
+      "name": "Claude",
+      "button_color": "#D97706",
+      "prompt_template": "Hello Claude, please review the following: {prompt}",
+      "auto_tags": ["synthesis", "refinement"]
+    },
+    {
+      "id": "chatgpt",
+      "name": "ChatGPT",
+      "button_color": "#10A37F",
+      "prompt_template": "Hello ChatGPT, please generate ideas for: {prompt}",
+      "auto_tags": ["ideation", "generation"]
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "button_color": "#4285F4",
+      "prompt_template": "Hello Gemini, please analyze the following: {prompt}",
+      "auto_tags": ["analysis", "critique"]
+    }
+  ]
+}

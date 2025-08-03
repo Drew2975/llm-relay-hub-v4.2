@@ -1,0 +1,4 @@
+2025-08-03 13:06:15,046 - RelayHubLogger - INFO - Application initialized.
+2025-08-03 13:06:32,642 - RelayHubLogger - INFO - Send event triggered for model: claude
+2025-08-03 13:06:33,780 - RelayHubLogger - INFO - Send event triggered for model: chatgpt
+2025-08-03 13:06:34,612 - RelayHubLogger - INFO - Send event triggered for model: gemini
